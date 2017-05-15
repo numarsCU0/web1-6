@@ -11,7 +11,7 @@
   <body>
     <article id="main">
       <p>い</p>
-      <img src="CU0.bmp" alt="う" width=300>
+      <img src="CU0.bmp" alt="う" width=300 class="photo">
       <dl>
         <dt>え：</dt><dd>お</dd>
         <dt>か：</dt><dd>き</dd>
