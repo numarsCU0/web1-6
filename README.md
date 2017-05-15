@@ -17,9 +17,15 @@
           <dt>え：</dt><dd>お</dd>
           <dt>か：</dt><dd>き</dd>
         </dl>
-      </section>
-      <input type="submit" value="ok" class="btn">
-      <input type="reset" value="のー" class="btn">
+        <table id="ingredient">
+          <tr><th>く</th><td>け</td></tr>
+          <tr><th>こ</th><td>さ</td></tr>
+          <tr><th>し</th><td>す</td></tr>
+          <tr><th>せ</th><td>そ</td></tr>
+        </table>
+      </section>
+      <input type="submit" value="ok" class="btn1">
+      <input type="reset" value="のー" class="btn2">
     </article>
   </body>
 </html>
