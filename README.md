@@ -11,6 +11,11 @@
   <body>
     <article id="main">
       <p>い</p>
-    </article>
+      <img src="CU0.bmp" alt="う" width=300>
+      <dl>
+        <dt>え：</dt><dd>お</dd>
+        <dt>か：</dt><dd>き</dd>
+      </dl>
+    </article>
   </body>
 </html>
