@@ -18,6 +18,8 @@
           <dt>か：</dt><dd>き</dd>
         </dl>
       </section>
+      <input type="submit" value="ok" class="btn">
+      <input type="reset" value="のー" class="btn">
     </article>
   </body>
 </html>
