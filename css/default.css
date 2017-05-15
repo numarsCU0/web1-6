@@ -14,3 +14,9 @@ body{
   float: left;
   margin-right: 30px;
 }
+
+.pic{
+  content: "";
+  clear: both;
+  display: block;
+}
