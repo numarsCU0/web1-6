@@ -50,3 +50,11 @@ dt{
 .btn2{
   background-color: lightcoral;
 }
+
+#ingredient{
+  border: 2px solid lightcoral;
+}
+
+tn, td{
+  border: 1px solid lightcoral;
+}
